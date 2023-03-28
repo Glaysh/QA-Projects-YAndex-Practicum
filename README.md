@@ -1,6 +1,19 @@
 # QA-Projects-YAndex-Practicum
 Projects completed as part of training at Yandex Practicum
-Пройден курс по направлению Инженер по тестированию
+
+Меня зовут Катерина Кащенко. Я окончила курс Yandex Practicum по специальности QA Engineer (Инженер по тестированию).
+На данный момент владею следующими навыками:
+
+• Разработка и составлении тест-кейсов и чек листов 
+• Создание схем Mindmap 
+• Ручное тестирование Web приложений (Windows) 
+• Тестирование мобильных приложений (Android) 
+• Документирование результатов 
+• Работа с DevTools 
+• Работа с Postman (GET, POST, PUT, DELETE) 
+• Работа с Charles (перехват запроса от клиента и возврат необходимых данных с сервера) 
+• SQL -базовый запросы: SELECT (FROM, WHERE, GROUP BY, ORDER BY, HAVING, TOP, LIKE, DESC), JOIN's
+• Заведение Bug-репортов на Yandex Tracker и YouTrack (примеры Yuotrack по ссылке https://glaysher.youtrack.cloud/projects)
 
 **Sprint 1**
 
@@ -11,7 +24,7 @@ Creation of test documentation for the Yandex.Routes service — compose a mindm
 
 Front-end testing of the Yandex.Routes service — design and conduct tests, issue bug reports.
 Тестировали веб приложение Яндекс.Маршруты. Составляли тестовую документацию для верстки и логики сервиса. Такие как Чек-листы и Тест-кейсы. Использовали инструменты Devtools, Charles.
-Так же мы изучили что такое BUG-report, научились их оформлять в сервисе YouTracker.
+Так же мы изучили что такое BUG-report, научились их оформлять в сервисе YouTrack.
 
 **Sprint 3**
 
