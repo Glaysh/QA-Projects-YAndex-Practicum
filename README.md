@@ -1,28 +1,30 @@
 # QA-Projects-YAndex-Practicum
 Projects completed as part of training at Yandex Practicum
 
-Меня зовут Катерина Кащенко. Я окончила курс Yandex Practicum по специальности QA Engineer (Инженер по тестированию).
+:woman_student: Меня зовут Катерина Кащенко. 
+Я окончила курс Yandex Practicum по специальности QA Engineer (Инженер по тестированию).
 На данный момент владею следующими навыками:
 
-• Разработка и составлении тест-кейсов и чек листов 
+:white_check_mark: • Разработка и составлении тест-кейсов и чек листов 
 
-• Создание схем Mindmap 
+:white_check_mark: • Создание схем Mindmap 
 
-• Ручное тестирование Web приложений (Windows) 
+:white_check_mark: • Ручное тестирование Web приложений (Windows) 
 
-• Тестирование мобильных приложений (Android) 
+:white_check_mark: • Тестирование мобильных приложений (Android) 
 
-• Документирование результатов 
+:white_check_mark: • Документирование результатов 
 
-• Работа с DevTools 
+:white_check_mark: • Работа с DevTools 
 
-• Работа с Postman (GET, POST, PUT, DELETE) 
+:white_check_mark: • Работа с Postman (GET, POST, PUT, DELETE) 
 
-• Работа с Charles (перехват запроса от клиента и возврат необходимых данных с сервера) 
+:white_check_mark: • Работа с Charles (перехват запроса от клиента и возврат необходимых данных с сервера) 
 
-• SQL -базовый запросы: SELECT (FROM, WHERE, GROUP BY, ORDER BY, HAVING, TOP, LIKE, DESC), JOIN's
+:white_check_mark: • SQL -базовый запросы: SELECT (FROM, WHERE, GROUP BY, ORDER BY, HAVING, TOP, LIKE, DESC), JOIN's 
+ 
+:white_check_mark: • Заведение Bug-репортов на Yandex Tracker и YouTrack (примеры Yuotrack по ссылке https://glaysher.youtrack.cloud/projects) 
 
-• Заведение Bug-репортов на Yandex Tracker и YouTrack (примеры Yuotrack по ссылке https://glaysher.youtrack.cloud/projects)
 
  [**Sprint 1**](https://github.com/Glaysh/QA-Projects-YAndex-Practicum/tree/main/Sprint%201)
 
