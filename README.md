@@ -5,14 +5,23 @@ Projects completed as part of training at Yandex Practicum
 На данный момент владею следующими навыками:
 
 • Разработка и составлении тест-кейсов и чек листов 
+
 • Создание схем Mindmap 
+
 • Ручное тестирование Web приложений (Windows) 
+
 • Тестирование мобильных приложений (Android) 
+
 • Документирование результатов 
+
 • Работа с DevTools 
+
 • Работа с Postman (GET, POST, PUT, DELETE) 
+
 • Работа с Charles (перехват запроса от клиента и возврат необходимых данных с сервера) 
+
 • SQL -базовый запросы: SELECT (FROM, WHERE, GROUP BY, ORDER BY, HAVING, TOP, LIKE, DESC), JOIN's
+
 • Заведение Bug-репортов на Yandex Tracker и YouTrack (примеры Yuotrack по ссылке https://glaysher.youtrack.cloud/projects)
 
 **Sprint 1**
