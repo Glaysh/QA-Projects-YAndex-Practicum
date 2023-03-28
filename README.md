@@ -12,6 +12,7 @@ Creation of test documentation for the Yandex.Routes service — compose a mindm
 Front-end testing of the Yandex.Routes service — design and conduct tests, issue bug reports.
 Тестировали веб приложение Яндекс.Маршруты. Составляли тестовую документацию для верстки и логики сервиса. Такие как Чек-листы и Тест-кейсы. Использовали инструменты Devtools, Charles.
 Так же мы изучили что такое BUG-report, научились их оформлять в сервисе YouTracker.
+
 **Sprint 3**
 
 Testing the Yandex.Metro mobile application. API testing of the Yandex.Prilavok training application.
